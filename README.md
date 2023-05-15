@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaan-patankar
-- 👀 I’m interested in applications of Python in quantitative finance
+- 👀 I’m interested in the applications of Python in quantitative finance
 - 📫 How to reach me, shaan@patankar.co.uk
 
 <!---
