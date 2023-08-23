@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaan-patankar
-- 👀 I’m interested in machine learning applications in portfolio optimisation
+- 👀 I’m interested in quantitative finance and investment banking
 - 📫 How to reach me, shaan@patankar.co.uk
 
 <!---
