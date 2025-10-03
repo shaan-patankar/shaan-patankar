@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaan-patankar
-- 👀 I’m interested in quantitative finance and investment banking
+- 👀 I’m interested in quantitative research
 - 📫 How to reach me, shaan@patankar.co.uk
 
 <!---
